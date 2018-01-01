@@ -1,5 +1,5 @@
 package observer;
 
-public class Observer {
-
+public interface Observer {
+	void update(double ibmPrice,double aplePrice,double goglePrice);
 }

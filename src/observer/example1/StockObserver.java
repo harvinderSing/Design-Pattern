@@ -1,4 +1,4 @@
-package observer;
+package observer.example1;
 
 public class StockObserver implements Observer {
 	private double ibmPrice;
